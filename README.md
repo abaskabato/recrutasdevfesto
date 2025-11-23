@@ -1,7 +1,3 @@
-# recrutasdevfesto
-The definitive operating guide for scaling a prototype into V1. This manifesto details the process for tackling existing technical debt (Phase 0), establishing TDD-backed quality gates, and enforcing architectural discipline necessary to move reliably from an unstructured MVP to a scalable, professional product.
-
-
 # 📜 The Recrutas Development Manifesto: Code for Maintainability
 
 **Preamble:** We believe that the speed of execution is measured not by how fast we write the first line of code, but by how fast we can continue to deliver quality features months from now. Our "vibe coding" is a commitment to discipline, structure, and quality, ensuring every line of code is human-readable, testable, and scalable, regardless of the platform or toolset we use.
